@@ -7,3 +7,5 @@
 ## Certifications
 
 [My Microsoft Learn MCID](https://learn.microsoft.com/en-us/users/glensouza)
+
+### Azure stuff
