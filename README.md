@@ -7,5 +7,3 @@
 ## Certifications
 
 [My Microsoft Learn MCID](https://learn.microsoft.com/en-us/users/glensouza)
-
-![Certiicate](https://www.c-sharpcorner.com/article/how-to-easily-az-900-microsoft-azure-fundamentals-certification-exam/Images/How%20To%20Easily%20Pass%20AZ-900%20Microsoft%20Azure%20Fundamentals%20Certification%20Exam2.png)
