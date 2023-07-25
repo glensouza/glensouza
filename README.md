@@ -9,3 +9,5 @@
 [My Microsoft Learn MCID](https://learn.microsoft.com/en-us/users/glensouza)
 
 ## GitHub Stuff
+
+## Azure Stuff
