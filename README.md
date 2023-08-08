@@ -7,5 +7,3 @@
 ## Certifications
 
 [My Microsoft Learn MCID](https://learn.microsoft.com/en-us/users/glensouza)
-
-## TODO: Add GitHub Stats
