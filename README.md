@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 👯 I’m looking to collaborate on YouTube content collaboration
-- 💬 Ask me about Azure
+- 💬 Ask me about Azure and/or DevOps
 - 📫 I will start getting active on X, you can reach me there: [@glensouza](https://twitter.com/glenster75)
 
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-brightgreen)](https://www.instagram.com/glenster75)
