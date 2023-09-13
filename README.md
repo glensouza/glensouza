@@ -11,4 +11,4 @@
 
 ## Certifications
 
-[My Microsoft Learn MCID](https://learn.microsoft.com/en-us/users/glensouza/credentials)
+[My Azure Certification Journey](https://github.com/glensouza/Azure-Certification)
