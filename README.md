@@ -10,6 +10,8 @@
 [![Github Follow](https://img.shields.io/github/followers/glensouza?label=glensouza&style=social)](https://github.com/glensouza)
 [!["Buy Me A Coffee"](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/glensouza)
 
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=glensouza.visitor-badge)
+
 ## Certifications
 
 [My Azure Certification Journey](https://github.com/glensouza/Azure-Certification)
